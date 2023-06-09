@@ -3,13 +3,15 @@
 # Volopay Assignment
 
 STEPS TO ACCESS THE PROJECT:
-1. The first and foremost step to run this project, you have to run the command npm install.
+1. The first and foremost step is to downlod the zip file from the code button in the same repository.
 
-2. Run the command npm run dev, from which the project will start into development mode.
+2. Now to run this project, you have to run the command npm install.
 
-3. Then, further our project will build to run in the development mode for production usage using the command yarn run build.
+3. Run the command npm run dev, from which the project will start into development mode.
 
-4. Further, using the command yarn run start, our project will get started at the server.
+4. Then, further our project will build to run in the development mode for production usage using the command yarn run build.
+
+5. Further, using the command yarn run start, our project will get started at the server.
 
 * The following assignment consists of a frontend application using React. Where I have created a web application which is user friendly in which user can decide it's status whether it is active or inactive depending on the card type, i.e. either BURNER or SUBSCRIPTION.
 * We have also designed a JSON structured API, which includes all the necessary details required for the card type, and to know which one is running depending on the owner_id.
