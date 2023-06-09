@@ -25,11 +25,10 @@ In the 'all' page we are showing all cards which are available i.e. either burne
 In the 'blocked' page further, the cards that will be blocked, or get expired will be displayed.
 
 * The user can filter by card type as well, depending upon the type i.e. either burner or subscription.
-<img src="./img/1.jpg" />
-
-<img src="./img/2.jpg" />
 
 <img src="./img/3.jpg" />
+
+
 
 
 
